@@ -1,0 +1,10 @@
+C:\Users\simla\Desktop\FlowChart\FlowChart\bin\Debug\FlowChart.exe.config
+C:\Users\simla\Desktop\FlowChart\FlowChart\bin\Debug\FlowChart.exe
+C:\Users\simla\Desktop\FlowChart\FlowChart\bin\Debug\FlowChart.pdb
+C:\Users\simla\Desktop\FlowChart\FlowChart\obj\Debug\FlowChart.csprojAssemblyReference.cache
+C:\Users\simla\Desktop\FlowChart\FlowChart\obj\Debug\FlowChart.Form1.resources
+C:\Users\simla\Desktop\FlowChart\FlowChart\obj\Debug\FlowChart.Properties.Resources.resources
+C:\Users\simla\Desktop\FlowChart\FlowChart\obj\Debug\FlowChart.csproj.GenerateResource.cache
+C:\Users\simla\Desktop\FlowChart\FlowChart\obj\Debug\FlowChart.csproj.CoreCompileInputs.cache
+C:\Users\simla\Desktop\FlowChart\FlowChart\obj\Debug\FlowChart.exe
+C:\Users\simla\Desktop\FlowChart\FlowChart\obj\Debug\FlowChart.pdb
